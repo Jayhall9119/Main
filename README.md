@@ -1,9 +1,6 @@
 # **Welcome**
 Hello, and welcome! I'm Jayce, a Project Coordinator with a strong passion for the environment and data. I'm thrilled that you've taken the time to explore my work.
 
-## **About Me**
-With over 2 years of experience in data entry and visualizations, I am deeply committed to leveraging the power of data analysis to contribute to environmental sustainability and animal welfare practices. My expertise lies in project coordination, data visualization, data cleaning, and report generation.
-
 ## **My Vision**
 I believe that data-driven insights are crucial in addressing environmental challenges and creating positive change. Through my portfolio, I aim to showcase my projects and demonstrate how data analysis can be a powerful tool in shaping a sustainable and compassionate future.
 
